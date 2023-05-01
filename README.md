@@ -1,2 +1,13 @@
 # go101
-The start project to learn golang
+The golang structures
+
+# Structure
+- Variables : Data types & Comments
+- Operators : Math, logical and relation
+- Collections : Array, Slices, Maps
+- Pointers
+- Structs
+- Control : Loop & Decision
+- Functions
+- Concurrency
+- Testing
