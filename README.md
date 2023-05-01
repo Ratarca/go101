@@ -3,6 +3,11 @@ The golang structures
 
 ## Roadmap
 
+## Packages & Modules
+- Packages and Modules
+- Local vs Remote
+- Manager Project
+
 ## Variables
 - Variables and COmments
 - Building
@@ -41,16 +46,11 @@ The golang structures
 ## TDD
 - Unit Test
 
-## Packages & Modules
-- Packages and Modules
-- Local vs Remote
-- Manager Project
-
 ## Concurrency
-Concurrency vs Parallelism
-Goroutines : {Mutex, Channels and Atom}
-Websockets vs Broadcast
-Sync Once/Signal and Conditional
+- Concurrency vs Parallelism
+- Goroutines : {Mutex, Channels and Atom}
+- Websockets vs Broadcast
+- Sync Once/Signal and Conditional
 
 ## Context
 - Deadlines
