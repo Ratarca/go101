@@ -27,7 +27,7 @@ The golang structures
 - Closure
 - Currying
 
-## 04: Composite Types
+## 04: Composite Types == Collections
 - Array
 - Slice
 - Maps
@@ -60,6 +60,8 @@ The golang structures
 
 ## 11: Advanced
 - TDD
+- IO : {json, http}
+- 
 - Reflect, unsafe and Cgo
 - Standard Libs
 
