@@ -20,12 +20,12 @@ The golang structures
 
 ## 03: Functions
 - Basic syntax
-- defer
-- Methods
 - Arguments
 - Anonymous functions
+- defer
 - Callbacks and composition
-- Closure & Currying
+- Closure
+- Currying
 
 ## 04: Composite Types
 - Array

@@ -17,6 +17,10 @@ func main() {
 	// boolean
 	var death_flag bool = false
 	fmt.Println(death_flag)
+
+	// error => value error is <nil>
+	var my_error error
+	fmt.Println(my_error)
 }
 
 /*
