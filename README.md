@@ -3,68 +3,65 @@ The golang structures
 
 ## Roadmap
 
-## Packages & Modules
+## 00: Packages & Modules
 - Packages and Modules
 - Local vs Remote
 - Manager Project
 
-## Variables
-- Variables and COmments
-- Building
+## 01: Variables
+- Variables and Comments
+- Primitive types : {String, Numeric, bool, const, type and untype "IOTA"}
 - Scope
 
-## Primitive Types
-- String
-- Numeric
-- Bool
-- Const
-- Type and Untype "IOTA"
-
-## Flow Control
-- Blocks and Control Structures
+## 02: Control Statements
+- Operators
 - Decisions : if/else; switch
 - for loop
 
-## Functions
+## 03: Functions
 - Basic syntax
 - defer
 - Methods
 - Arguments
 - Anonymous functions
 - Callbacks and composition
-- Closure
+- Closure & Currying
 
-## Collections
+## 04: Composite Types
 - Array
 - Slice
 - Maps
 - Structs
 
-## Pointers
+## 05: Pointers
 - Memory and address
 
+## 06: Methods & Interfaces
+- Methods
+- Interfaces
 
+## 07: Errors
+- try...catch
+- panic & recover
 
-## TDD
-- Unit Test
-
-## Concurrency
+## 08: Concurrency
 - Concurrency vs Parallelism
 - Goroutines : {Mutex, Channels and Atom}
 - Websockets vs Broadcast
 - Sync Once/Signal and Conditional
 
-## Context
+## 09: Context
 - Deadlines
 - Cancellation Signals
 - Request Scoped
-## Advanced
-- Interface
+
+## 10: Generics
 - Generics
 
-## Handle Errors
-## Reflect, Unsage and Cgo
-## Standard Libs
+## 11: Advanced
+- TDD
+- Reflect, unsafe and Cgo
+- Standard Libs
 
 ----
 
