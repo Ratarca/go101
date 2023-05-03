@@ -22,8 +22,17 @@ The golang structures
 
 ## Flow Control
 - Blocks and Control Structures
-- Loops
-- Decisions
+- Decisions : if/else; switch
+- for loop
+
+## Functions
+- Basic syntax
+- defer
+- Methods
+- Arguments
+- Anonymous functions
+- Callbacks and composition
+- Closure
 
 ## Collections
 - Array
@@ -34,14 +43,7 @@ The golang structures
 ## Pointers
 - Memory and address
 
-## Functions
-- Basic syntax
-- defer
-- Methods
-- Arguments
-- Anonymous functions
-- Callbacks and composition
-- Closure
+
 
 ## TDD
 - Unit Test
@@ -69,3 +71,4 @@ The golang structures
 # References
 https://quii.gitbook.io/learn-go-with-tests/ <br>
 https://www.practical-go-lessons.com <br>
+    
