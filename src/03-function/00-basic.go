@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// order : init 1:file (setup and configs) >> main 1:pack>> another
+
 // Single return
 func hipotenuse(a int, b int) int {
 	return a + b
