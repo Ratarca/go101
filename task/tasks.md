@@ -14,21 +14,35 @@ Structure the questions is *Number:Type:Description*
 - 5:Variable: Create and print these variables to compund macro variables : GDP, Inflation, Uneployment, Interest Rate, Population, name contrie.<br>
 - 6:Variable: Create and print these variables to compound a circle : Circumference, diameter, radius .<br>
 - 7:Variable: Create two int variables where first is a number and second is equal the first print all, change the second variable and print all variables explains this behavior.<br>
-- 7:Memory: See the difference between heap and stack memory and exaplain these concepts.<br>
+- 8:Memory: See the difference between heap and stack memory and exaplain these concepts.<br>
 </details>
 
 
 <details>
     <summary> Control Statements : Decision</summary>
-- 1:<br>
-- 2:<br>
+- 1:Decision: Create a program that checks whether a number is even or odd.<br>
+- 2:Decision: Write a program that calculates the area of a triangle, but only if the inputs are valid.<br>
+- 3:Decision: Develop a program that determines whether a user inputted string is a palindrome..<br>
+- 4:Decision: Create a program that checks whether a user inputted number is positive, negative, or zero.<br>
+- 5:Decision: Write a program that determines whether a user inputted year is a leap year or not.<br>
+- 6:Decision: Develop a program that checks whether a user inputted number is prime or composite.<br>
+- 7:Decision: Create a program that converts a user inputted temperature from Celsius to Fahrenheit or Fahrenheit to Celsius, depending on the user's choice.<br>
+- 8:Decision: Write a program that determines the largest of three user inputted numbers using if statements.<br>
+- 9:Decision: Develop a program that determines whether a user inputted character is a vowel or consonant.<br>
+- 10:Decision: Create a program that takes in a user inputted age and determines whether the person is an infant, child, teenager, adult, or senior citizen using if statements.<br>
+- 11:Decision: Refactory 10 with switch.<br>
+- 12:Decision: Develop a program that checks whether a user inputted number is a perfect number or not. A perfect number is a positive integer that is equal to the sum of its proper divisors (excluding the number itself). <br>
+- 13:Decision: Develop a program that checks whether a user inputted number is a Fibonacci number or not. A Fibonacci number is a number that is the sum of the two preceding ones. <br>
+- 14:Decision: Develop a program that checks whether a user inputted number is a Harshad number or not. A Harshad number is a number that is divisible by the sum of its digits. <br>
+- 15:Decision: Create a welcome mensage to 3 kind customer using switch. <br>
+
 </details>
 
 
 <details>
     <summary> Control Statements : Loop</summary>
-- 1:<br>
-- 2:<br>
+- 1:For: 0<br>
+- 2:For: 0<br>
 </details>
 
 
