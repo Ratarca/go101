@@ -3,17 +3,19 @@ package main
 import "fmt"
 
 func main() {
-	name := "dog"
-	hair := "black"
-	max_age := 20
-	gender := "female"
+	// 8 Variables <4 explicit and 4 implicit>
+	var name string = "Loop"
+	var hair string = "Black"
+	var max_age int = 20
+	var gender string = "male"
+
 	quantity_legs := 4
 	tits := true
 	fly := false
-	swim := true
 	exo_skelecton := false
+	var swim bool = true
 
 	fmt.Println(name, hair, max_age,
 		gender, quantity_legs, tits,
-		fly, swim, exo_skelecton)
+		fly, exo_skelecton, swim)
 }

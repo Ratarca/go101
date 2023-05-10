@@ -1,15 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math/rand"
+)
 
 func main() {
-	var age int = 10
+	some_number := rand.Intn(1000)
 
-	if age > 60 {
-		fmt.Println("Pass")
-	} else if age > 35 {
-		fmt.Println("Pass")
+	if some_number%2 == 0 {
+		fmt.Println(some_number, "is Odd")
 	} else {
-		fmt.Println("A")
+		fmt.Println(some_number, "isnt Odd")
 	}
 }
