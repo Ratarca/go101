@@ -10,13 +10,20 @@ The golang structures
 
 ## 01: Variables
 - Variables and Comments
-- Primitive types : {String, Numeric, bool, const, type and untype "IOTA"}
+- Primitive types
+    - String
+    - Numeric
+    - Boolean
+    - CONST
+    - Type & Untype
+    - IOTA
+- Datetime
 - Scope
 
 ## 02: Control Statements
-- Operators
-- Decisions : if/else; switch
-- for loop
+- Operators : Math; logical; relational
+- Decision : if/else; else if;switch
+- Loops : For {Basic, init, While}
 
 ## 03: Functions
 - Basic syntax
@@ -33,13 +40,13 @@ The golang structures
 - Maps
 - Structs
 
-## 05: Pointers
-- Memory and address
-
-## 06: Methods & Interfaces
+## 05: Methods & Interfaces
+- Review Structs
 - Methods
 - Interfaces
 
+## 06: Pointers
+- Memory and address
 ## 07: Errors
 - try...catch
 - panic & recover
@@ -61,7 +68,6 @@ The golang structures
 ## 11: Advanced
 - TDD
 - IO : {json, http}
-- 
 - Reflect, unsafe and Cgo
 - Standard Libs
 
